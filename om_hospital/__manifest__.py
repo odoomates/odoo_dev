@@ -1,5 +1,5 @@
 {
-    'name': 'Odoo Development Tutorials',
+    'name': 'Odoo V12 Development Tutorials',
     'version': '12.0.2.1.0',
     'category': 'Extra Tools',
     'summary': 'Odoo Development Tutorials For Beginners and Experts',
